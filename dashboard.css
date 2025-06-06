@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-image: url("header\ pattern\ svg.svg");
+    height: 50px;
+    background-color: #202B37;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+        position: fixed;
+    width: 100vw;
+}
